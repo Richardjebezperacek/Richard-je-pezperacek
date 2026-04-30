@@ -52,7 +52,7 @@ for ($i = 1; $i <= 100; $i++) {
 echo "<hr>";
 
 echo "<h2>ÚLOHA 6</h2>";
-$ovoce = ["jablko", "banán", "hruška", "pomeranč", "švestka", "kiwi", "mango", "meloun"];
+$ovoce = ["jablko", "banán", "hruškaaaa", "pomeranč", "švestka", "kiwi", "mango", "meloun"];
 foreach ($ovoce as $item) {
     echo $item . "<br>";
 }
